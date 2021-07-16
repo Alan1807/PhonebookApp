@@ -1,0 +1,13 @@
+.form-group {
+    margin-top: 20px;
+}
+
+.btn {
+    margin-top: 20px;
+}
+
+.err {
+    color: red;
+    font-style: italic;
+    font-size: 0.8em;
+}
